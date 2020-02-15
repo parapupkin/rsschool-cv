@@ -1,0 +1,34 @@
+html, body, main {
+	margin: 0 auto;	
+}
+
+.title {
+	text-align: center;
+	font-size: 2rem;
+}
+
+.profile {
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.foto {
+	max-width: 30%;
+	float: right;
+	margin-right: 5rem; 
+}
+
+.info {
+	padding: 0 3rem 3rem 3rem;
+	font-size: 1.3rem;
+}
+
+ol>li {
+	margin-bottom: 0.7rem;
+}
+
+p {
+	margin: 0 0 0.7rem 0;
+	text-align: justify;
+	text-indent: 3rem;
+}
